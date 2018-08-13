@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "Research"
-    url: /Research/
+    url: /pages/research/
   - title: "People"
-    url: /People/
+    url: /pages/people/
   - title: "Publications"
     url: https://scholar.google.com/citations?hl=en&user=fC_iuoIAAAAJ&view_op=list_works&sortby=pubdate 
   - title: "Software"
     url: https://github.com/HanLabUNLV
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Calendar"
+    url: /pages/cal/
   - title: "News"
     url: /year-archive/
 

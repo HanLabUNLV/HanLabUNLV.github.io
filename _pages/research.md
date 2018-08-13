@@ -1,4 +1,4 @@
 ---
 title:
-permalink: /research/
+permalink: /pages/research/
 ---

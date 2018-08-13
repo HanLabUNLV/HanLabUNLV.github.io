@@ -1,4 +1,4 @@
 ---
 title:
-permalink: /people/
+permalink: /pages/people/
 ---
