@@ -1,0 +1,41 @@
+# Authors
+
+- Mira Han:
+  name        : "Mira Han"
+  role        : "Principal investigator"
+  uri         : "/pages/people/mirahan.html"
+  home         : "/pages/people/mirahan.html"
+  email       : "mira.han@unlv.edu"
+  bio         : ""
+  avatar      : "/assets/images/mirahan.jpg"
+  google_scholar : "https://scholar.google.com/citations?hl=en&user=fC_iuoIAAAAJ&view_op=list_works&sortby=pubdate"
+
+
+- Dylan Barth:
+  name        : "Dylan Barth"
+  role        : "Research assistant"
+  uri         : "http://thewhip.com"
+  email       : ""
+  bio         : ""
+  avatar      : "/assets/images/biocat.jpg"
+
+- Sophia Quinton:
+  name        : "Sophia Quinton"
+  role        : "Undergraduate student"
+  email       : ""
+  bio         : ""
+  avatar      : "/assets/images/biocat.jpg"
+
+- Matthew Sielaff:
+  name        : "Matthew Sielaff"
+  role        : "Undergraduate student"
+  email       : ""
+  bio         : ""
+  avatar      : "/assets/images/biocat.jpg"
+
+- Brian Kiaer:
+  name        : "Brian Kiaer"
+  role        : "Undergraduate student"
+  email       : ""
+  bio         : ""
+  avatar      : "/assets/images/biocat.jpg"

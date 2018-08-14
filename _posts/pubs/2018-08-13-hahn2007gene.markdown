@@ -1,0 +1,15 @@
+---
+  title: Gene family evolution across 12 Drosophila genomes
+  category: publication
+  date: 2007-08-13T00:47:58-07:00
+  work-type: Paper
+  ref-authors: Hahn, Matthew W, Han, Mira V, Han, and Sang-Gook Han
+  ref-journal: PLoS genetics
+  ref-volume: 3
+  ref-number: 11
+  ref-pages: e197
+  ref-year: 2007
+  ref-publisher: Public Library of Science
+  ref-doi: 10.1371/journal.pgen.0030197 
+
+---

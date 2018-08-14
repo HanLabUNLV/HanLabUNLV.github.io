@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "han lab @ UNLV"
+title                    : "Hanlab @ UNLV"
 title_separator          : "-"
 name                     : "Mira Han"
 description              : "Hanlab research and news"
@@ -100,13 +100,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Mira Han"
+  role             : "Principal investigator"
+  avatar           : "/assets/images/mirahan.jpg"
+  bio              : ""
+  location         : #"Somewhere"
+  email            : mira.han@unlv.edu
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
+  google_scholar   : https://scholar.google.com/citations?hl=en&user=fC_iuoIAAAAJ&view_op=list_works&sortby=pubdate
   bitbucket        :
   codepen          :
   dribbble         :

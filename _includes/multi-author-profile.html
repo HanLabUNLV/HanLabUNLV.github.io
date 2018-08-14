@@ -1,0 +1,97 @@
+
+<div class="people__author__content">
+    <div class="people__author__avatar">
+    {% if author.avatar %}
+        {% if author.avatar contains "://" %}
+          {% assign author_src = author.avatar %}
+        {% else %}
+          {% assign author_src = author.avatar | relative_url %}
+        {% endif %}
+
+        {% if author.home %}
+          {% if author.home contains "://" %}
+            {% assign author_link = author.home %}
+          {% else %}
+            {% assign author_link = author.home | relative_url %}
+          {% endif %}
+          <a href="{{ author_link }}">
+            <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
+          </a>
+        {% else %}
+          <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
+        {% endif %}
+    {% endif %}
+    </div>
+
+    <div style="display:table-cell; vertical-align:top">
+
+      {% if author.home %}
+        <a href="{{ author_link }}"><h1 class="people__author__name" itemprop="name">{{ author.name }}</h1></a>
+      {% else %}
+        <h1 class="people__author__name" itemprop="name">{{ author.name }}</h1>
+      {% endif %}
+      {% if author.role %}
+        <h3 class="people__author__name" itemprop="name">{{ author.role }}</h3>
+      {% endif %}
+      {% if author.bio %}
+        <p class="people__author__bio" itemprop="description">
+          {{ author.bio }}
+        </p>
+      {% endif %}
+   
+      <div class="people__author__urls-wrapper">
+        <ul class="people__author__urls social-icons">
+          {% if author.location %}
+            <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
+              <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
+            </li>
+          {% endif %}
+
+          {% if author.uri %}
+            <li>
+              <a href="{{ author.uri }}" itemprop="url">
+                <i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}
+              </a>
+            </li>
+          {% endif %}
+
+          {% if author.email %}
+            <li>
+              <a href="mailto:{{ author.email }}">
+                <meta itemprop="email" content="{{ author.email }}" />
+                <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
+              </a>
+            </li>
+          {% endif %}
+
+          {% if author.google_scholar %}
+            <li>
+              <a href="{{ author.google_scholar }}" itemprop="sameAs">
+                  Google Scholar 
+              </a>
+            </li>
+          {% endif %}
+     
+          {% if author.twitter %}
+            <li>
+              <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
+                <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+              </a>
+            </li>
+          {% endif %}
+
+          {% if author.github %}
+            <li>
+              <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
+                <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub
+              </a>
+            </li>
+          {% endif %}
+
+          {% include author-profile-custom-links.html %}
+        </ul>
+      </div>
+    </div>
+  <p></p>
+</div>
+<p></p>

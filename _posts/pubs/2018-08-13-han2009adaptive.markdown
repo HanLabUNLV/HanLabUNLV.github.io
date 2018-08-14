@@ -1,0 +1,14 @@
+---
+  title: Adaptive evolution of young gene duplicates in mammals
+  category: publication
+  date: 2009-08-13T00:47:58-07:00
+  work-type: Paper
+  ref-authors: Han, Mira V, Demuth, Jeffery P, McGrath, Casey L, Casola, Claudio, and Hahn, Matthew W
+  ref-journal: Genome research
+  ref-volume: 19
+  ref-number: 5
+  ref-pages: 859--867
+  ref-year: 2009
+  ref-publisher: Cold Spring Harbor Lab
+  ref-doi: 10.1101/gr.085951.108
+---

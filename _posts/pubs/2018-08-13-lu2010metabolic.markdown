@@ -1,0 +1,14 @@
+---
+  title: Metabolic flexibility revealed in the genome of the cyst-forming $\alpha$-1 proteobacterium Rhodospirillum centenum
+  category: publication
+  date: 2010-08-13T00:47:58-07:00
+  work-type: Paper
+  ref-authors: Lu, Yih-Kuang, Marden, Jeremiah, Han, Mira, Swingley, Wesley D, Mastrian, Stephen D, Chowdhury, Sugata Roy, Hao, Jicheng, Helmy, Tamer, Kim, Sun, Kurdoglu, Ahmet A, and others
+  ref-journal: BMC genomics
+  ref-volume: 11
+  ref-number: 1
+  ref-pages: 325
+  ref-year: 2010
+  ref-publisher: BioMed Central
+  ref-doi: doi.org/10.1186/1471-2164-11-325
+---

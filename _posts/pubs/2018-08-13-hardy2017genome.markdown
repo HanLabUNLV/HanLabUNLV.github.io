@@ -1,0 +1,14 @@
+---
+  title: Genome-wide analysis of starvation-selected Drosophila melanogaster—A genetic model of obesity
+  category: publication
+  date: 2017-08-14T00:47:58-06:00
+  work-type: Paper
+  ref-authors: Hardy, Christopher M, Burke, Molly K, Everett, Logan J, Han, Mira V, Lantz, Kathryn M, and Gibbs, Allen G
+  ref-journal: Molecular biology and evolution
+  ref-volume: 35
+  ref-number: 1
+  ref-pages: 50--65
+  ref-year: 2017
+  ref-publisher: Oxford University Press
+  ref-doi: 10.1093/molbev/msw282
+---

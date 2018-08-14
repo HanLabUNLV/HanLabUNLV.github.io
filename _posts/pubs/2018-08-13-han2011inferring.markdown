@@ -1,0 +1,12 @@
+---
+  title: Inferring the history of interchromosomal gene transposition in Drosophila using n-dimensional parsimony
+  category: publication
+  date: 2011-08-13T00:47:58-07:00
+  work-type: Paper
+  ref-authors: Han, Mira V and Hahn, Matthew W
+  ref-journal: Genetics
+  ref-pages: genetics--111
+  ref-year: 2011
+  ref-publisher: Genetics
+  ref-doi: 10.1534/genetics.111.135947
+---

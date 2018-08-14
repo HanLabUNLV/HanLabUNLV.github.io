@@ -1,0 +1,14 @@
+---
+  title: 'phyloXML: XML for evolutionary biology and comparative genomics'
+  category: publication
+  date: 2009-08-13T00:47:58-07:00
+  work-type: Paper
+  ref-authors: Han, Mira V and Zmasek, Christian M
+  ref-journal: BMC bioinformatics
+  ref-volume: 10
+  ref-number: 1
+  ref-pages: 356
+  ref-year: 2009
+  ref-publisher: BioMed Central
+  ref-doi: 10.1186/1471-2105-10-356
+---

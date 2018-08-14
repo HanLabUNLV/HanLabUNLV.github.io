@@ -1,0 +1,27 @@
+# Authors
+
+Mira Han:
+  name        : "Mira Han"
+  role        : "Principal investigator"
+  uri         : "/pages/people/mirahan.html"
+  home         : "/pages/people/mirahan.html"
+  email       : "mira.han@unlv.edu"
+  bio         : ""
+  avatar      : "/assets/images/mirahan.jpg"
+  google_scholar : "https://scholar.google.com/citations?hl=en&user=fC_iuoIAAAAJ&view_op=list_works&sortby=pubdate"
+
+
+Dylan Barth:
+  name        : "Dylan Barth"
+  role        : "Research assistant"
+  uri         : "http://thewhip.com"
+  email       : ""
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/images/biocat.jpg"
+
+Sophia Quinton:
+  name        : "Sophia Quinton"
+  role        : "Undergraduate student"
+  email       : ""
+  bio         : "I ordered what?"
+  avatar      : "/assets/images/biocat.jpg"

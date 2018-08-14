@@ -65,6 +65,14 @@
         </li>
       {% endif %}
 
+      {% if author.google_scholar %}
+        <li>
+          <a href="{{ author.google_scholar }}" itemprop="sameAs">
+              Google Scholar 
+          </a>
+        </li>
+      {% endif %}
+ 
       {% if author.keybase %}
         <li>
           <a href="https://keybase.io/{{ author.keybase }}" itemprop="sameAs">

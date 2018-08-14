@@ -5,11 +5,13 @@ main:
   - title: "People"
     url: /pages/people/
   - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&user=fC_iuoIAAAAJ&view_op=list_works&sortby=pubdate 
+    url: /pages/pub/
   - title: "Software"
     url: https://github.com/HanLabUNLV
-  - title: "Calendar"
-    url: /pages/cal/
+  - title: "JournalClub"
+    url: /pages/journalclub/
+  - title: "Classes"
+    url: /pages/classes/
   - title: "News"
     url: /year-archive/
 
