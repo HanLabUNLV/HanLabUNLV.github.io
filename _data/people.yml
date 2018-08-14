@@ -6,7 +6,7 @@
   uri         : "/pages/people/mirahan.html"
   home         : "/pages/people/mirahan.html"
   email       : "mira.han@unlv.edu"
-  bio         : ""
+  bio         : "I am an assistant professor in the School of Life Sciences at University of Nevada, Las Vegas. I obtained my Ph.D. in Informatics at Indiana University Bloomington, studying genome evolution through gene duplication, loss and transposition with Dr. Matthew Hahn. Afterwards, I moved to Durham, NC to work on gene transposition at the National Evolutionary Synthesis Center (NESCent). I joined UNLV in 2013."
   avatar      : "/assets/images/mirahan.jpg"
   google_scholar : "https://scholar.google.com/citations?hl=en&user=fC_iuoIAAAAJ&view_op=list_works&sortby=pubdate"
 
@@ -14,10 +14,17 @@
 - Dylan Barth:
   name        : "Dylan Barth"
   role        : "Research assistant"
-  uri         : "http://thewhip.com"
-  email       : ""
-  bio         : ""
-  avatar      : "/assets/images/biocat.jpg"
+  uri         : ""
+  email       : "dylan.barth@unlv.edu"
+  bio         : "I work in the Han lab as a research assistant, where we are modeling the indel rates of unaligned segments of dna. I am interested in exploring new areas of genetics using computational methods to better our understanding of evolutionary processes on a smaller scale. I received Bachelor's degrees in Mathematics, Physics, and Philosophy from Texas Christian University in 2018 where I completed a thesis in computational biophysics about intracellular viral kinematics. In the future, I look forward to discovering new genetic patterns and phenomena in the Han lab."
+  avatar      : "/assets/images/dbarth.jpg"
+
+- Brian Kiaer:
+  name        : "Brian Kiaer"
+  role        : "Undergraduate student"
+  email       : "kiaer@unlv.nevada.edu"
+  bio         : "I'm an undergraduate senior pursuing Computer Engineering with a minor in Computer Science at the University of Nevada, Las Vegas. Currently, I am conducting bioinformatic research under Dr. Mira Han and I am interested in how to implement more efficient algorithms on applied programs. I will be receiving my bachelor's degree in May 2019 and will be pursuing a Computer Engineering and Science Master's degree shortly after."
+  avatar      : "/assets/images/bkiaer.jpg"
 
 - Sophia Quinton:
   name        : "Sophia Quinton"
@@ -33,9 +40,4 @@
   bio         : ""
   avatar      : "/assets/images/biocat.jpg"
 
-- Brian Kiaer:
-  name        : "Brian Kiaer"
-  role        : "Undergraduate student"
-  email       : ""
-  bio         : ""
-  avatar      : "/assets/images/biocat.jpg"
+
