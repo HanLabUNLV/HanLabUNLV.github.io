@@ -3,7 +3,7 @@
   category: publication
   date: 2018-08-13T01:47:58-07:00
   work-type: Paper
-  ref-authors: Chung, Nicky and Jonaid, GM and Quinton, Sophia and Ross, Austin and Alberto, Adrian and Clymer, Cody and Churchill, Daphnie and Leija, Omar Navarro and Han, Mira V
+  ref-authors: Chung, Nicky, Jonaid, GM, Quinton, Sophia, Ross, Austin, Alberto, Adrian, Clymer, Cody, Churchill, Daphnie, Leija, Omar Navarro, and Han, Mira V
   ref-journal: bioRxiv
   ref-pages: 385062
   ref-year: 2018

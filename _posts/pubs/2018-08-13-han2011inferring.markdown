@@ -5,8 +5,10 @@
   work-type: Paper
   ref-authors: Han, Mira V and Hahn, Matthew W
   ref-journal: Genetics
-  ref-pages: genetics--111
   ref-year: 2011
+  ref-volume: 190
+  ref-number: 2
+  ref-pages: 813-825
   ref-publisher: Genetics
   ref-doi: 10.1534/genetics.111.135947
 ---
