@@ -7,7 +7,8 @@
   ref-journal: Molecular biology and evolution
   ref-volume: 34
   ref-number: 4
-  ref-pages: 831--842
+  ref-pages: 831-842
   ref-year: 2017
-  ref-publisher: Oxford University Pressa
+  ref-publisher: Oxford University Press
+  ref-doi: 10.1093/molbev/msw282
 ---
