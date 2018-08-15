@@ -4,5 +4,11 @@
 
 @charset "utf-8";
 
+$link-color: #062F4F !default;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.greedy-nav .visible-links a:before {
+  background-color: #E7717D;
+}
