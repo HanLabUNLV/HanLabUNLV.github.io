@@ -29,9 +29,9 @@
 - Sophia Quinton:
   name        : "Sophia Quinton"
   role        : "Undergraduate student"
-  email       : ""
-  bio         : ""
-  avatar      : "/assets/images/biocat.jpg"
+  email       : "quints1@unlv.nevada.edu"
+  bio         : "I am a senior attending UNLV with a major in biological sciences with a concentration in cell and molecular and a minor in chemistry. I have been working in Han Lab since fall 2015 and am currently working on finding the correlation of mitochondria encoded genes with L1HS. I have done a SURF internship at Mayo Clinic Arizona. I hope to pursue an MD/PhD after graduation."
+  avatar      : "/assets/images/squinton.jpg"
 
 - Matthew Sielaff:
   name        : "Matthew Sielaff"
