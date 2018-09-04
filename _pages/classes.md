@@ -9,5 +9,6 @@ permalink: /pages/classes/
 
 ## BIOL796 Journal Club 
 [human genomics journal club](https://sites.google.com/unlv.edu/biol796humangenomics){:target="_blank"}  
-Tues 11:00 AM 
+Tues 11:00 AM  HRC 4th floor conference room
+
 
