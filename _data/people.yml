@@ -3,8 +3,7 @@
 - Mira Han:
   name        : "Mira Han"
   role        : "Principal investigator"
-  uri         : "/pages/people/mirahan.html"
-  home         : "/pages/people/mirahan.html"
+  uri         : "/assets/images/mirahanCV.pdf"
   email       : "mira.han@unlv.edu"
   bio         : "I am an assistant professor in the School of Life Sciences at University of Nevada, Las Vegas. I obtained my Ph.D. in Informatics at Indiana University Bloomington, studying genome evolution through gene duplication, loss and transposition with Dr. Matthew Hahn. Afterwards, I moved to Durham, NC to work on gene transposition at the National Evolutionary Synthesis Center (NESCent). I joined UNLV in 2013."
   avatar      : "/assets/images/mirahan.jpg"
