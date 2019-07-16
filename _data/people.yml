@@ -10,32 +10,26 @@
   google_scholar : "https://scholar.google.com/citations?hl=en&user=fC_iuoIAAAAJ&view_op=list_works&sortby=pubdate"
 
 
+- Corinne Sexton:
+  name        : "Corinne Sexton"
+  role        : "Graduate student"
+  uri         : ""
+  email       : "corinne.sexton@unlv.edu"
+  bio         : ""
+  avatar      : "/assets/images/biocat.jpg"
+
 - Dylan Barth:
   name        : "Dylan Barth"
-  role        : "Research assistant"
+  role        : "Graduate student"
   uri         : ""
   email       : "dylan.barth@unlv.edu"
   bio         : "I work in the Han lab as a research assistant, where we are modeling the indel rates of unaligned segments of dna. I am interested in exploring new areas of genetics using computational methods to better our understanding of evolutionary processes on a smaller scale. I received Bachelor's degrees in Mathematics, Physics, and Philosophy from Texas Christian University in 2018 where I completed a thesis in computational biophysics about intracellular viral kinematics. In the future, I look forward to discovering new genetic patterns and phenomena in the Han lab."
   avatar      : "/assets/images/dbarth.jpg"
 
-- Brian Kiaer:
-  name        : "Brian Kiaer"
-  role        : "Undergraduate student"
-  email       : "kiaer@unlv.nevada.edu"
-  bio         : "I'm an undergraduate senior pursuing Computer Engineering with a minor in Computer Science at the University of Nevada, Las Vegas. Currently, I am conducting bioinformatic research under Dr. Mira Han and I am interested in how to implement more efficient algorithms on applied programs. I will be receiving my bachelor's degree in May 2019 and will be pursuing a Computer Engineering and Science Master's degree shortly after."
-  avatar      : "/assets/images/bkiaer.jpg"
-
-- Sophia Quinton:
-  name        : "Sophia Quinton"
-  role        : "Undergraduate student"
-  email       : "quints1@unlv.nevada.edu"
-  bio         : "I am a senior attending UNLV with a major in biological sciences with a concentration in cell and molecular and a minor in chemistry. I have been working in Han Lab since fall 2015 and am currently working on finding the correlation of mitochondria encoded genes with L1HS. I have done a SURF internship at Mayo Clinic Arizona. I hope to pursue an MD/PhD after graduation."
-  avatar      : "/assets/images/squinton.jpg"
-
-- Matthew Sielaff:
-  name        : "Matthew Sielaff"
-  role        : "Undergraduate student"
-  email       : ""
+- Adrian Alberto:
+  name        : "Adrian Alberto"
+  role        : "Research assistant"
+  email       : "@unlv.nevada.edu"
   bio         : ""
   avatar      : "/assets/images/biocat.jpg"
 

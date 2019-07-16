@@ -5,6 +5,14 @@
   role        : "MS students"
   current     : "Penn State PhD program"
 
+- Sophia Quinton:
+  name        : "Sophia Quinton"
+  role        : "Undergraduate students"
+
+- Matthew Sielaff:
+  name        : "Matthew Sielaff"
+  role        : "Undergraduate students"
+
 - Nicky Chung:
   name        : "Nicky Chung"
   role        : "Undergraduate students"
@@ -29,6 +37,11 @@
   name        : "Omar Navarro Leija"
   role        : "Undergraduate students"
   current     : "UPenn PhD program"
+
+- Elizabeth Park: 
+  name        : "Elizabeth Park"
+  role        : "Undergraduate students"
+  current     : "UNLV MD program"
 
 - Alex Park: 
   name        : "Alex Park"
