@@ -1,5 +1,5 @@
 ---
-title: Summer code camp 2019 completed with success. 
+title: Summer code camp 2019 was completed with success. 
 date: 2019-04-10T00:00:00-07:00
 ---
 <figure>
