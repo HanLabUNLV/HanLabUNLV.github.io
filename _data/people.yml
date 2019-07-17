@@ -33,4 +33,17 @@
   bio         : ""
   avatar      : "/assets/images/biocat.jpg"
 
+- Aashi Maharjan:
+  name        : "Aashi Maharjan"
+  role        : "Graduate student"
+  email       : "mahara2@unlv.nevada.edu"
+  bio         : ""
+  avatar      : "/assets/images/biocat.jpg"
+
+- Daniel Alvarez:
+  name        : "Daniel Alvarez"
+  role        : "Graduate student"
+  email       : "alvarez5@unlv.nevada.edu"
+  bio         : ""
+  avatar      : "/assets/images/biocat.jpg"
 
